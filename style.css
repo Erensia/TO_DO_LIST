@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+}
+
+hr{
+    height:5px;
+    border:none;
+    background-color:violet;
+}
+
+/* #input-div{
+    background-color: white;
+} */
